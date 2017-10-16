@@ -8,3 +8,4 @@ Future releases will include
   -Equaliser and visualisation support
   
   Will soon release a desktop app with drag and play functionality
+Songs are not Good..
